@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yp2i6i.goto77bam.site/sitemap.xml
